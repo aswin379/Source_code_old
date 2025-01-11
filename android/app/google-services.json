@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302818296330",
+    "project_id": "parinayam-40184",
+    "storage_bucket": "parinayam-40184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302818296330:android:15cee887adfa3d1e3d95f3",
+        "android_client_info": {
+          "package_name": "com.unik.parinayam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnikfEsVkJkoVvo2L0-vR10bP4175DUkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
